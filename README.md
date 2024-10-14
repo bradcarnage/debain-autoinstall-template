@@ -3,6 +3,7 @@ automated installation of debian 12, with remote script fetching via URLs
 
 
 # Notes
+The files in this repository are meant to be served with NGINX or Apache2
 1) replace `dev.example.com` with your subdomain
 2) replace `example.com` with your domain
 3) Using debian 12 installer ISO, open advanced -> automated -> dev.example.com -> enter
